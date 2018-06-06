@@ -15,3 +15,7 @@ I deployed two Dionaea honeypots. Between the two, they experienced over 10,503 
 ## Gif of the Honeypot
 
 https://github.com/LunchBox1/week-9-assignment/blob/master/week%209.gif
+
+## .json file
+
+https://github.com/LunchBox1/week-9-assignment/blob/master/session.json
